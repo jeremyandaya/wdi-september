@@ -3,6 +3,10 @@ body {
 
 }
 
+ul {
+	display: inline-block;
+}
+
 
 #container {
 	width: 850px;
