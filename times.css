@@ -1,6 +1,6 @@
 body {
 	background-color: orange;
-	
+
 }
 
 
@@ -52,5 +52,6 @@ p {
 	margin: 0 auto;
 	border: 1px solid green;
 	text-align: center;
-	font-size: 40px;
+	font-size: 35px;
+	text-transform: uppercase;
 }
