@@ -1,0 +1,50 @@
+#container {
+	width: 850px;
+	margin: 0 auto;
+
+}
+
+#article1 {
+
+}
+
+#article2 {
+
+
+}
+
+#column1 {
+	width: 400px;
+	float: left;
+	border: 1px solid red;
+	margin: 10px 10px 10px 10px;
+
+
+}
+
+#column2 {
+	width: 400px;
+	float: left;
+	border: 1px solid blue;
+	margin: 10px 10px 10px 10px;
+
+
+
+}
+img {
+	width: 200px;
+	float: left;
+	margin: 10px 10px 10px 10px;
+}
+
+p {
+
+}
+
+#main_title {
+	width: 850px;
+	margin: 0 auto;
+	border: 1px solid green;
+	text-align: center;
+	font-size: 40px;
+}
