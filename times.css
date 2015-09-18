@@ -1,3 +1,8 @@
+body {
+	background-color: orange;
+}
+
+
 #container {
 	width: 850px;
 	margin: 0 auto;
