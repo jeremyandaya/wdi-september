@@ -3,6 +3,12 @@ body {
 
 }
 
+ul {
+	display: inline;
+	text-align: center;
+	color: blue;
+	font-size: 29px;
+}
 
 #container {
 	width: 850px;
